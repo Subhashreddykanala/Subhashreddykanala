@@ -1,0 +1,18 @@
+#include <stdio.h>
+#include <conio.h>
+int main()
+{
+Printf("pick an item:,\n1.pen,\n2.pencil,\n3.erraiser,\n4.book");
+Int(choice=0);
+Scanf("%d",&choice);
+{
+Case1:
+Printf("you picked pen");
+Case2:
+Printf("you picked pencil");
+Case3:
+Printf("you picked erraiser");
+Case4:
+Ptintf("you picked book");
+Return(0);
+}
