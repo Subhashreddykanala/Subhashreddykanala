@@ -1,0 +1,14 @@
+#include<stdio.h>
+int main()
+{
+if(n==0)
+{
+printf("Enter the number");
+Scanf("%d",n);
+}
+else 
+{
+printf("no");
+}
+return (0);
+}
